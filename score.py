@@ -14,7 +14,6 @@ try:
 	elif float(score) >= 0.6:
     		print('D')
 	else:
-    		print('F')
-except:
+    		print('F'):
 	print('Bad score. Try again.')
 
